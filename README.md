@@ -1,2 +1,4 @@
 # quizz
- projeto quizz do curso JS
+
+Projeto do Curso de JavaScript
+
